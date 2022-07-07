@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="soot-infoflow-android-classes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/soot-infoflow-android-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/soot-infoflow-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/trove4j-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/soot-4.2.1-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/soot-4.2.1-jar-with-dependencies.jar!/" />
+    </SOURCES>
+  </library>
+</component>
